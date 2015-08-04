@@ -15,6 +15,12 @@ class PagesController extends BaseController
       $this->middleware('guest');
     }
 
+
+    /**
+     * Static page
+     *
+     * @return [type]
+     */
     public function about()
     {
       return view('pages.about');
