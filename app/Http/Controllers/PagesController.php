@@ -26,4 +26,19 @@ class PagesController extends BaseController
       return view('pages.about');
     }
 
+    public function how_it_works()
+    {
+      return view('pages.how_it_works');
+    }
+
+    public function privacy_policy()
+    {
+      return view('pages.privacy_policy');
+    }
+
+    public function terms_of_use()
+    {
+      return view('pages.terms_of_use');
+    }
+
 }

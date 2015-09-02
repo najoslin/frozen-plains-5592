@@ -2,7 +2,7 @@
 
 @section('content')
 
-<h1>ABOUT US</h1>
+<h1>Terms Of Use</h1>
 <div class="container">
   <div class="row">
     <div class="col-xs-12">

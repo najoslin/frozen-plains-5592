@@ -25,3 +25,6 @@ Route::post('auth/register', 'Auth\AuthController@postRegister');
 
 // Static page routes...
 Route::get('about', 'PagesController@about');
+Route::get('how-it-works', 'PagesController@how_it_works');
+Route::get('privacy-policy', 'PagesController@privacy_policy');
+Route::get('terms-of-use', 'PagesController@terms_of_use');
