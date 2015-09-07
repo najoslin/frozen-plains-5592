@@ -4,7 +4,7 @@
 
 <div class="container">
   <div class="row">
-    <div class="">
+    <div class="" style="display:inline">
 	<img style="float:left; padding: 10px; ; margin-right: 15px; border: 3px solid green; margin-left:10px" src="../images/SuWEKC.png" Alt="Forming the team at Startup Weekend KC" height="320" width="420">
 		<div class="" style="font-family:'Open Sans'">
 		<p><h2 style="float:center"> ABOUT HEAL THE ONION LLC </h2>
