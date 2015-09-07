@@ -4,9 +4,9 @@
 
 <div class="container">
   <div class="row">
-    <div class="col-xs-6 col-md-4">
+    <div class="">
 	<img style="float:left; padding: 10px; ; margin-right: 15px; border: 3px solid green; margin-left:10px" src="../images/SuWEKC.png" Alt="Forming the team at Startup Weekend KC" height="320" width="420">
-		<div class="col-xs-12 col-md-8" style="font-family:'Open Sans'">
+		<div class="" style="font-family:'Open Sans'">
 		<p><h2 style="float:center"> ABOUT HEAL THE ONION LLC </h2>
 		<p style="font-size:16px">
 		We continue to work on our mission of helping people in pain find natural relief - the first time!
