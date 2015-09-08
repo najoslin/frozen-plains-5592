@@ -13,18 +13,18 @@
 				We continue to work on our mission of helping people in pain find natural relief - the first time!
 			</p>
 			<p>
-						<br>
-						<br>
-						After spending over tons of money and time trying to get relief from conditions associated with multiple car wrecks, 
-						Amanda Bicknell decided there needed to be an easier way to find natural relief. &nbsp  
-						She had tried many different types of care and many different sources on the web to find care, but she saw two key problems in her search 
-						- 1) No site allowed people just to search by their pain type (they all required you already to know what kind of provider you wanted) and 
-						2) Existing review sites were unreliable because people could pay to get rated better or could flood the site with "fake" reviews. &nbsp 
-						So she set out to make the solution she wanted.  <br> <br> She took her idea to Startup Weekend KC and not only was she able to attract people who
-						were interested in the problem, the idea even attracted the attention of a couple of the mentors that decided to join the team.  &nbsp 
-						At the end of Startup Weekend Heal the Onion placed second out of 10 teams! &nbspAfter Startup 
-						Weekend the team fluctuated a bit with new members signing on and some of the original crew departing, but after a month or so - Amanda, Nick and Chris 
-						continued to develop the idea into a full fledged startup.<br><br>
+					<br>
+					<br>
+					After spending over tons of money and time trying to get relief from conditions associated with multiple car wrecks, 
+					Amanda Bicknell decided there needed to be an easier way to find natural relief. &nbsp  
+					She had tried many different types of care and many different sources on the web to find care, but she saw two key problems in her search 
+					- 1) No site allowed people just to search by their pain type (they all required you already to know what kind of provider you wanted) and 
+					2) Existing review sites were unreliable because people could pay to get rated better or could flood the site with "fake" reviews. &nbsp 
+					So she set out to make the solution she wanted.  <br> <br> She took her idea to Startup Weekend KC and not only was she able to attract people who
+					were interested in the problem, the idea even attracted the attention of a couple of the mentors that decided to join the team.  &nbsp 
+					At the end of Startup Weekend Heal the Onion placed second out of 10 teams! &nbspAfter Startup 
+					Weekend the team fluctuated a bit with new members signing on and some of the original crew departing, but after a month or so - Amanda, Nick and Chris 
+					continued to develop the idea into a full fledged startup.<br><br>
 			</p>
 		</div>
 	</div>
