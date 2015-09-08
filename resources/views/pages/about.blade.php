@@ -13,8 +13,6 @@
 				We continue to work on our mission of helping people in pain find natural relief - the first time!
 			</p>
 			<p>
-					<br>
-					<br>
 					After spending over tons of money and time trying to get relief from conditions associated with multiple car wrecks, 
 					Amanda Bicknell decided there needed to be an easier way to find natural relief. &nbsp  
 					She had tried many different types of care and many different sources on the web to find care, but she saw two key problems in her search 
@@ -31,7 +29,7 @@
 	<div class="row">
 		<div class="col-md-12">
 		<h2 class="text-center" style="width:100%; border: 1px solid green"> Our Mission</h2>
-			<p style="font-family:'Open Sans';font-size:16px; margin:10px">
+			<p class="text-center" style="font-family:'Open Sans';font-size:16px; margin:10px">
 					Our mission is to make alternative care easier to understand and easier to access, by helping you find your relief - the first time. <br> <br>
 					This means we strive to clearly identify what providers are best for what conditions – to ensure that people in pain find the providers best 
 					able to help them and that providers receive patients that they are best suited to help. &nbsp We make the whole process simple, trustworthy 
@@ -41,28 +39,30 @@
 					you know who you are best suited to help and can share additional information on your modalities to help people feel more comfortable coming 
 					to you for care.<br>
 					We'll accomplish our mission by helping you find your relief - the first time!
+					<br>
+					<br>
 			</p>
 		</div>
 	</div>
 	<div class="row">
 		<div class="col-md-4">
-			<img src= "../images/Amanda.jpg" height="128" width="128" alt="Amanda Bicknell" style="border: 1px solid gray"> </a>
-			<h3>
+			<img src= "../images/Amanda.jpg" height="128" width="128" alt="Amanda Bicknell" style="float: center;border: 1px solid gray"> </a>
+			<h3 class="text-center">
 				Amanda's Story
 			</h3>
-			<p>
+			<p class="text-center" >
 				Amanda's Story goes here
 			</p>
-			<p>
-				<a class="btn" href="#">View details »</a>
+			<p class="text-center" >
+				<a class="btn" href="#">Contact Amanda »</a>
 			</p>
 		</div>
 		<div class="col-md-4">
 			<img src="../images/me.jpg" height="128" width="128" alt="Nick Joslin" style="border: 1px solid gray"></a>
-			<h3>
+			<h3 class="text-center">
 				Nick's Story
 			</h3>
-			<p>
+			<p class="text-center">
 				I was drawn to this startup because I have experience on both sides of the Alternative healing equation. &nbsp 
 				On one side I have a ruptured disk in my back that was operated on years ago.  &nbsp I continue to work and live, but I 
 				experience chronic lower back pain relating to this injury and have sought out different kinds of pain relief from 
@@ -72,20 +72,20 @@
 				She is active in the natural healing community and we frequently talk about how to better reach people who could
 				benefit the most from her skills.
 			</p>
-			<p>
-				<a class="btn" href="#">View details »</a>
+			<p class="text-center">
+				<a class="btn" href="#">Contact Nick »</a>
 			</p>
 		</div>
 		<div class="col-md-4">
 			<img src="../images/Chris.jpg" height="128" width="128" alt="Chris Morris" style="border: 1px solid gray"></a>
-			<h3>
+			<h3 class="text-center">
 				Chris's Story
 			</h3>
-			<p>
+			<p class="text-center">
 				Chris's Story goes here
 			</p>
-			<p>
-				<a class="btn" href="#">View details »</a>
+			<p class="text-center">
+				<a class="btn" href="#">Contact Chris »</a>
 			</p>
 		</div>
 	</div>
