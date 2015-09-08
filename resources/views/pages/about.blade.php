@@ -11,8 +11,7 @@
 			<h2 class="text-center"> ABOUT HEAL THE ONION LLC </h2>
 			<p class="text-center">
 				We continue to work on our mission of helping people in pain find natural relief - the first time!
-			</p>
-			<p>
+				
 					After spending over tons of money and time trying to get relief from conditions associated with multiple car wrecks, 
 					Amanda Bicknell decided there needed to be an easier way to find natural relief. &nbsp  
 					She had tried many different types of care and many different sources on the web to find care, but she saw two key problems in her search 
