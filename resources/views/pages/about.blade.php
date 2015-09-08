@@ -36,7 +36,7 @@
 					You are an important part of accomplishing this mission.  &nbspIf you are a member you know what works best for you and by sharing your 
 					experience, you are helping literally thousands of other people find the best alternative care for their pain.  &nbspIf you are a provider, 
 					you know who you are best suited to help and can share additional information on your modalities to help people feel more comfortable coming 
-					to you for care.<br>
+					to you for care.<br> <br>
 					We'll accomplish our mission by helping you find your relief - the first time!
 					<br>
 					<br>
@@ -46,7 +46,7 @@
 	<div class="row">
 		<div class="col-md-4" style="display: inline">
 			<img src= "../images/Amanda.jpg" height="128" width="128" alt="Amanda Bicknell" style= "border: 1px solid gray"> </a>
-			<h3 class="text-center">
+			<h3>
 				Amanda's Story
 			</h3>
 			<p class="text-center" >
