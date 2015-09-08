@@ -9,9 +9,9 @@
 		</div>
 		<div class="col-md-8">
 			<h2 class="text-center"> ABOUT HEAL THE ONION LLC </h2>
-			<h3 class="text-center">
+			<p class="text-center">
 				We continue to work on our mission of helping people in pain find natural relief - the first time!
-			</h3>
+			</p>
 			<p>
 						<br>
 						<br>
@@ -30,7 +30,7 @@
 	</div>
 	<div class="row">
 		<div class="col-md-12">
-		<h2 class="text-center; width:100%; border: 1px solid green"> Our Mission</h2>
+		<h2 class="text-center" style="width:100%; border: 1px solid green"> Our Mission</h2>
 			<p style="font-family:'Open Sans';font-size:16px; margin:10px">
 					Our mission is to make alternative care easier to understand and easier to access, by helping you find your relief - the first time. <br> <br>
 					This means we strive to clearly identify what providers are best for what conditions – to ensure that people in pain find the providers best 
