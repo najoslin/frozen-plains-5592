@@ -44,8 +44,8 @@
 		</div>
 	</div>
 	<div class="row">
-		<div class="col-md-4">
-			<img src= "../images/Amanda.jpg" height="128" width="128" alt="Amanda Bicknell" style="float: center;border: 1px solid gray"> </a>
+		<div class="col-md-4" style="display: inline">
+			<img src= "../images/Amanda.jpg" height="128" width="128" alt="Amanda Bicknell" style= "border: 1px solid gray"> </a>
 			<h3 class="text-center">
 				Amanda's Story
 			</h3>
