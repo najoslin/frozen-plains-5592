@@ -52,9 +52,7 @@
 			<p class="text-center" >
 				Amanda's Story goes here
 			</p>
-			<p class="text-center" >
-				<a class="btn" href="#">Contact Amanda »</a>
-			</p>
+
 		</div>
 		<div class="col-md-4">
 			<img src="../images/me.jpg" height="128" width="128" alt="Nick Joslin" class="pull-left" style="border: 1px solid gray"></a>
@@ -71,9 +69,7 @@
 				She is active in the natural healing community and we frequently talk about how to better reach people who could
 				benefit the most from her skills.
 			</p>
-			<p class="text-center">
-				<a class="btn" href="#">Contact Nick »</a>
-			</p>
+
 		</div>
 		<div class="col-md-4">
 			<img src="../images/Chris.jpg" height="128" width="128" alt="Chris Morris" class="pull-left" style="border: 1px solid gray"></a>
@@ -83,9 +79,7 @@
 			<p class="text-center">
 				Chris's Story goes here
 			</p>
-			<p class="text-center">
-				<a class="btn" href="#">Contact Chris »</a>
-			</p>
+
 		</div>
 	</div>
 </div>
