@@ -21,7 +21,7 @@
             <li class="main-menu"><a href="/about">About Us</a></li>
             <li class="main-menu"><a href="/how-it-works">How It Works</a></li>
             <li class="main-menu"><a href="/articles">Latest Articles</a></li>
-            <li class="main-menu"><a href="/log-in">Log In</a></li>
+            <li class="main-menu"><a href="/login">Log In</a></li>
           </ul>
         </div>
 
