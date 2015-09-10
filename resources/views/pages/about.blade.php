@@ -5,7 +5,7 @@
 <div class="container-fluid">
 	<div class="row">
 		<div class="col-md-4">
-			<img  src="images/SuWEKC.png" Alt="Forming the team at Startup Weekend KC" height="320" width="420"/>
+			<img  src="images/SuWEKC.png" Alt="Forming the team at Startup Weekend KC" height="320" width="420" style="border: 1px solid gray"/>
 		</div>
 		<div class="col-md-8">
 			<h2 class="text-center"> ABOUT HEAL THE ONION LLC </h2>
