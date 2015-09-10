@@ -48,7 +48,7 @@
                         <div class="form-group">
                             <div class="col-md-6 col-md-offset-4">
                                 <button type="submit" class="btn btn-success">Login</button>
-								<button type="submit" class="btn btn-success">Sign up</button>
+								<button type="submit" class="btn btn-success" onclick="window.location.href='/register'">Sign up</button>
 							<br>
                                 <a class="btn btn-link" href="{{ url('/password/email') }}">Forgot Your Password?</a>
                             </div>
