@@ -57,7 +57,7 @@
 			</p>
 		</div>
 		<div class="col-md-4">
-			<img src="../images/me.jpg" height="128" width="128" alt="Nick Joslin" style="border: 1px solid gray"></a>
+			<img src="../images/me.jpg" height="128" width="128" alt="Nick Joslin" class="pull-left" style="border: 1px solid gray"></a>
 			<h3 class="text-center">
 				Nick's Story
 			</h3>
@@ -76,7 +76,7 @@
 			</p>
 		</div>
 		<div class="col-md-4">
-			<img src="../images/Chris.jpg" height="128" width="128" alt="Chris Morris" style="border: 1px solid gray"></a>
+			<img src="../images/Chris.jpg" height="128" width="128" alt="Chris Morris" class="pull-left" style="border: 1px solid gray"></a>
 			<h3 class="text-center">
 				Chris's Story
 			</h3>
