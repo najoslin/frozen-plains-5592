@@ -44,6 +44,8 @@
 		</div>
 	</div>
 	<div class="row">
+			<div class="col-md-12">
+			<h2 class="text-center" style="width:100%; border: 1px solid green"> Our Team</h2>
 			<div class="col-md-4">
 			<img src= "../images/Amanda.jpg" height="128" width="128" alt="Amanda Bicknell" class="pull-left" style= "border: 1px solid gray"> </a>
 			<h3 class="text-center">
