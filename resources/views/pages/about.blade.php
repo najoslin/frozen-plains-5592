@@ -44,7 +44,7 @@
 		</div>
 	</div>
 	<div class="row">
-		<div class="col-md-4">
+		<div class="col-md-4" style="dispaly: inline">
 			<img src= "../images/Amanda.jpg" height="128" width="128" alt="Amanda Bicknell" style= "border: 1px solid gray"> </a>
 			<h3 class="text-center">
 				Amanda's Story
